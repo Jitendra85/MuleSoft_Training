@@ -1,0 +1,38 @@
+[
+  {
+    "Id": "0015g00000A3xZkAAJ",
+    "Name": "Acme Corporation",
+    "Type": "Customer",
+    "Industry": "Manufacturing",
+    "Phone": "+1-415-555-1234",
+    "Website": "https://www.acme.com",
+    "AccountNumber": "ACM-001",
+    "AnnualRevenue": 12500000,
+    "NumberOfEmployees": 240,
+    "Rating": "Hot"
+  },
+  {
+    "Id": "0015g00000B7yLpBBQ",
+    "Name": "Global Tech Solutions",
+    "Type": "Partner",
+    "Industry": "Technology",
+    "Phone": "+1-212-555-5678",
+    "Website": "https://www.globaltech.com",
+    "AccountNumber": "GTS-002",
+    "AnnualRevenue": 9800000,
+    "NumberOfEmployees": 180,
+    "Rating": "Warm"
+  },
+  {
+    "Id": "0015g00000C9zRtCCQ",
+    "Name": "Sunrise Retail Group",
+    "Type": "Prospect",
+    "Industry": "Retail",
+    "Phone": "+1-305-555-7890",
+    "Website": "https://www.sunriseretail.com",
+    "AccountNumber": "SRG-003",
+    "AnnualRevenue": 5500000,
+    "NumberOfEmployees": 95,
+    "Rating": "Cold"
+  }
+]

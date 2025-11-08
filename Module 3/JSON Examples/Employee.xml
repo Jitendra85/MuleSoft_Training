@@ -1,0 +1,38 @@
+<Employees>
+    <Employee>
+        <Id>EMP001</Id>
+        <FirstName>John</FirstName>
+        <LastName>Doe</LastName>
+        <Email>john.doe@example.com</Email>
+        <Phone>+1-415-555-1001</Phone>
+        <Department>Sales</Department>
+        <Designation>Sales Manager</Designation>
+        <Salary>85000</Salary>
+        <Location>San Francisco</Location>
+        <Status>Active</Status>
+    </Employee>
+    <Employee>
+        <Id>EMP002</Id>
+        <FirstName>Jane</FirstName>
+        <LastName>Smith</LastName>
+        <Email>jane.smith@example.com</Email>
+        <Phone>+1-212-555-2034</Phone>
+        <Department>HR</Department>
+        <Designation>HR Specialist</Designation>
+        <Salary>65000</Salary>
+        <Location>New York</Location>
+        <Status>Active</Status>
+    </Employee>
+    <Employee>
+        <Id>EMP003</Id>
+        <FirstName>Robert</FirstName>
+        <LastName>Brown</LastName>
+        <Email>robert.brown@example.com</Email>
+        <Phone>+1-305-555-9087</Phone>
+        <Department>IT</Department>
+        <Designation>Software Engineer</Designation>
+        <Salary>90000</Salary>
+        <Location>Miami</Location>
+        <Status>Inactive</Status>
+    </Employee>
+</Employees>
