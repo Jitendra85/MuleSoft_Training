@@ -1,0 +1,37 @@
+#%RAML 1.0 Library
+usage: Data types for Account and Contacts
+
+types:
+  Address:
+    type: object
+    properties:
+      street: string
+      city?: string
+      state?: string
+      postalCode?: string
+      country?: string
+
+  Contact:
+    type: object
+    properties:
+      firstName: string
+      lastName: string
+      email: string
+      phone: string
+
+  Account:
+    type: object
+    properties:
+      name: string
+      accountNumber: string
+      industry: string
+      website: string
+      phone: string
+      numberOfEmployees: integer
+      annualRevenue: string
+      rating: string
+      billing: Address
+      shipping: Address
+      contacts:
+        type: array
+        items: Contact
